@@ -1,0 +1,24 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "KoboldWR.js",
+  "scripts": {
+    "KoboldWR": "node ./src/KoboldWR.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.3.2",
+    "chartjs-node-canvas": "^3.2.0",
+    "chartjs-to-image": "^1.0.4",
+    "mongodb": "^3.6.9",
+    "mqtt": "^4.2.6",
+    "node-emoji": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.53.0",
+    "quickchart-js": "^1.0.8",
+    "request": "^2.88.2"
+  }
+}
